@@ -1,8 +1,4 @@
----
-  tags: hashes, iteration
-  languages: ruby
-  resources: 1
----
+
 
 # Hashketball
 
