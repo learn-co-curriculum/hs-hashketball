@@ -1,12 +1,14 @@
-
-
 # Hashketball
+
+## Overview
+
+Tomorrow, you'll be learning all about Application Programming Interfaces, or APIs. APIs are how applications communicate with each other over the iternet - it's why Yelp can have a Google Map showing restaurant locations and those restaurants can display all of the latest tweets about them on their page. 
+
+Many of the APIs we'll be working with send us data in the form of nested arrays and hashes. Being comfortable iterating through nested data structures will make your life WAY easier. 
 
 ## Instructions
 
-Great news! You're going to an NBA game! The only catch is that you've been volunteered to keep stats at the game.
-
-There is a nested hash in `game_hash.rb` that defines a game, with two teams, their players, and the players stats.
+We've gotten a bunch of data from the Yahoo Sports API. There is a nested hash in `game_hash.rb` that defines a game, with two teams, their players, and the players stats.
 
 Using the power of Ruby, and the game hash in `game_hash.rb`, write methods to complete the following:
 
