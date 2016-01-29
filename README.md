@@ -46,4 +46,4 @@ Define methods to return the answer to the following questions:
 ## Resources
 * [Codecademy](http://www.codecademy.com/dashboard) - [A Night at the Movies](http://external.codecademy.com/courses/ruby-beginner-en-0i8v1/0/1)
 
-<a href='https://learn.co/lessons/hs-hashketball' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-hashketball' title='Hashketball'>Hashketball</a> on Learn.co and start learning to code for free.</p>
